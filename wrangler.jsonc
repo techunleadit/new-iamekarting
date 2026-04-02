@@ -9,6 +9,12 @@
 	"assets": {
 		"directory": "./dist",
 	},
+	"kv_namespaces": [
+	    {
+	        "binding": "SESSION",
+	        "id": "fe1187996e5141b98e0d707079700481"
+	    }
+	],
 	"d1_databases": [
 		{
 			"binding": "DB",
